@@ -1,0 +1,16 @@
+{
+  "favoriteFood": [
+    {
+      "meal": "Breakfast",
+      "dish": "Eggs & Bacon"
+    },
+    {
+      "meal": "Lunch",
+      "dish": "Burgers & Fries"
+    },
+    {
+      "meal": "Dinner",
+      "dish": "Steak & Lobster"
+    }
+  ]
+}
